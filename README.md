@@ -12,6 +12,9 @@ An efficient expense tracker app designed to help users manage their finances ef
 - **Delete Expense:** Remove unwanted expenses to keep your records organized.
 
 - **Animations:** Enjoy a visually appealing user interface with smooth animations powered by Framer Motion.
+  
+- **Analytics:** Gain insights into your spending habits with analytics features, providing a clear overview of your financial patterns.
+
 
 
 
