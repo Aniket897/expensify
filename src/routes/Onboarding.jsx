@@ -28,12 +28,12 @@ const Onboarding = () => {
             alt=""
           />
         </div>
-        <h1 className="font-extrabold text-3xl">Daily Budget</h1>
+        <h1 className="font-extrabold text-3xl">Expensify</h1>
       </div>
       <div className="flex-1 flex gap-y-8 justify-center flex-col">
         <div>
           <p className="font-bold text-3xl text-center">
-            Track and analyze your expense today.
+            Track and analyze your expense today with Expensify.
           </p>
           <p className="mt-4 text-gray-500">
             offer away to keep track of your financial expenses in a convenient
