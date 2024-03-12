@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cuprum:ital,wght@0,400..700;1,400..700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Nunito", sans-serif;
+  /* font-family: "Cuprum", sans-serif; */
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.creteButton {
+  @apply w-[50px] h-[50px] rounded-full flex items-center justify-center bg-yellow-200 hover:bg-yellow-500 font-extrabold text-xl hover:text-4xl duration-100 cursor-pointer;
+}
